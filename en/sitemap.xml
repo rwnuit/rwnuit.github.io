@@ -56,15 +56,6 @@
                     hreflang="en"
                     href="https://rwnuit.github.io/en/tags/installation/"
                     /></url><url>
-            <loc>https://rwnuit.github.io/en/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/"
-                    /></url><url>
             <loc>https://rwnuit.github.io/en/posts/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -73,6 +64,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://rwnuit.github.io/en/posts/"
+                    /></url><url>
+            <loc>https://rwnuit.github.io/en/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://rwnuit.github.io/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://rwnuit.github.io/en/"
                     /></url><url>
             <loc>https://rwnuit.github.io/en/tags/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"

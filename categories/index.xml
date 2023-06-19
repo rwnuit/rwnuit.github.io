@@ -1,13 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - 分类 - LoveIt</title>
+        <title>Categories - 分类 - RWnuit</title>
         <link>https://rwnuit.github.io/categories/</link>
-        <description>Categories - 分类 - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <description>Categories - 分类 - RWnuit</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (rwnuit)</managingEditor>
+            <webMaster>zhen-zhao@msn.com (rwnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown</title>
     <link>https://rwnuit.github.io/categories/markdown/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>rwnuit</author>
     <guid>https://rwnuit.github.io/categories/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -15,7 +16,7 @@
     <title>文档</title>
     <link>https://rwnuit.github.io/categories/documentation/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
+    <author>rwnuit</author>
     <guid>https://rwnuit.github.io/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item>

@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - 标签 - LoveIt</title>
+        <title>Markdown - 标签 - RWnuit</title>
         <link>https://rwnuit.github.io/tags/markdown/</link>
-        <description>Markdown - 标签 - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+        <description>Markdown - 标签 - RWnuit</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (rwnuit)</managingEditor>
+            <webMaster>zhen-zhao@msn.com (rwnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown 基本语法</title>
     <link>https://rwnuit.github.io/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>

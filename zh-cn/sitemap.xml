@@ -30,15 +30,6 @@
                     href="https://rwnuit.github.io/emoji-support/"
                     /></url><url>
             <loc>https://rwnuit.github.io/first_post/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://rwnuit.github.io/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://rwnuit.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://rwnuit.github.io/"
-                    /></url><url>
             <loc>https://rwnuit.github.io/posts/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -47,6 +38,15 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://rwnuit.github.io/posts/"
+                    /></url><url>
+            <loc>https://rwnuit.github.io/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://rwnuit.github.io/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://rwnuit.github.io/"
                     /></url><url>
             <loc>https://rwnuit.github.io/categories/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"

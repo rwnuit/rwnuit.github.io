@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - LoveIt</title>
+        <title>所有文章 - RWnuit</title>
         <link>https://rwnuit.github.io/posts/</link>
-        <description>所有文章 | LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 19 Jun 2023 15:27:07 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>所有文章 | RWnuit</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (rwnuit)</managingEditor>
+            <webMaster>zhen-zhao@msn.com (rwnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 19 Jun 2023 15:27:07 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>主题文档 - 基本概念</title>
     <link>https://rwnuit.github.io/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -31,7 +32,7 @@
     <title>First_post</title>
     <link>https://rwnuit.github.io/first_post/</link>
     <pubDate>Mon, 19 Jun 2023 15:27:07 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <author>rwnuit</author>
     <guid>https://rwnuit.github.io/first_post/</guid>
     <description><![CDATA[11111111111111111111111111111111111111]]></description>
 </item>
