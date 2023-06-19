@@ -11,33 +11,6 @@
                     hreflang="en"
                     href="https://rwnuit.github.io/en/theme-documentation-basics/"
                     /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-content/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-content/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-built-in-shortcodes/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-built-in-shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-built-in-shortcodes/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-extended-shortcodes/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-extended-shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-extended-shortcodes/"
-                    /></url><url>
             <loc>https://rwnuit.github.io/en/basic-markdown-syntax/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -47,15 +20,6 @@
                     hreflang="en"
                     href="https://rwnuit.github.io/en/basic-markdown-syntax/"
                     /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-mermaid-shortcode/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-mermaid-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-mermaid-shortcode/"
-                    /></url><url>
             <loc>https://rwnuit.github.io/en/emoji-support/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -64,51 +28,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://rwnuit.github.io/en/emoji-support/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-echarts-shortcode/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-echarts-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-echarts-shortcode/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-mapbox-shortcode/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-mapbox-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-mapbox-shortcode/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-music-shortcode/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-music-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-music-shortcode/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-bilibili-shortcode/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-bilibili-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-bilibili-shortcode/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/theme-documentation-typeit-shortcode/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/theme-documentation-typeit-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/theme-documentation-typeit-shortcode/"
                     /></url><url>
             <loc>https://rwnuit.github.io/en/categories/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -164,14 +83,14 @@
                     hreflang="en"
                     href="https://rwnuit.github.io/en/tags/"
                     /></url><url>
-            <loc>https://rwnuit.github.io/en/tags/content/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://rwnuit.github.io/en/tags/html/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://rwnuit.github.io/tags/content/"
+                        href="https://rwnuit.github.io/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://rwnuit.github.io/en/tags/content/"
+                    href="https://rwnuit.github.io/en/tags/html/"
                     /></url><url>
             <loc>https://rwnuit.github.io/en/tags/markdown/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -181,24 +100,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://rwnuit.github.io/en/tags/markdown/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/tags/shortcodes/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/tags/shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/tags/shortcodes/"
-                    /></url><url>
-            <loc>https://rwnuit.github.io/en/tags/html/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://rwnuit.github.io/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://rwnuit.github.io/en/tags/html/"
                     /></url><url>
             <loc>https://rwnuit.github.io/en/categories/markdown/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -218,7 +119,7 @@
                     hreflang="en"
                     href="https://rwnuit.github.io/en/tags/emoji/"
                     /></url><url>
-            <loc>https://rwnuit.github.io/en/about/</loc><lastmod>2023-06-19T16:28:50&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://rwnuit.github.io/en/about/</loc><lastmod>2023-06-19T17:41:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://rwnuit.github.io/about/"
