@@ -2,7 +2,7 @@
     <channel>
         <title>RWnuit</title>
         <link>https://rwnuit.github.io/</link>
-        <description>Hugo theme - LoveIt</description>
+        <description>RWnuit</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (rwnuit)</managingEditor>
             <webMaster>zhen-zhao@msn.com (rwnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 19 Jun 2023 15:27:07 &#43;0800</lastBuildDate>
             <atom:link href="https://rwnuit.github.io/index.xml" rel="self" type="application/rss+xml" />
