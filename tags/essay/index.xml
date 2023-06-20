@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>essay - 标签 - RWnuit</title>
+        <link>https://rwnuit.github.io/tags/essay/</link>
+        <description>essay - 标签 - RWnuit</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (RWnuit)</managingEditor>
+            <webMaster>zhen-zhao@msn.com (RWnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jun 2023 10:58:04 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/tags/essay/" rel="self" type="application/rss+xml" /><item>
+    <title>测试用论文</title>
+    <link>https://rwnuit.github.io/test_essay/</link>
+    <pubDate>Tue, 20 Jun 2023 10:58:04 &#43;0800</pubDate>
+    <author>Homer</author>
+    <guid>https://rwnuit.github.io/test_essay/</guid>
+    <description><![CDATA[<p>一种传染病动力学建模方法。</p>]]></description>
+</item>
+</channel>
+</rss>

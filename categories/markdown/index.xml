@@ -3,22 +3,14 @@
         <title>Markdown - 分类 - RWnuit</title>
         <link>https://rwnuit.github.io/categories/markdown/</link>
         <description>Markdown - 分类 - RWnuit</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (rwnuit)</managingEditor>
-            <webMaster>zhen-zhao@msn.com (rwnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhen-zhao@msn.com (RWnuit)</managingEditor>
+            <webMaster>zhen-zhao@msn.com (RWnuit)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://rwnuit.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Markdown 基本语法</title>
     <link>https://rwnuit.github.io/basic-markdown-syntax/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>Dillon</author>
     <guid>https://rwnuit.github.io/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item>
-<item>
-    <title>Emoji 支持</title>
-    <link>https://rwnuit.github.io/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://rwnuit.github.io/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
+    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例。</p>]]></description>
 </item>
 </channel>
 </rss>
